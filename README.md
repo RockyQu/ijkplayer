@@ -43,8 +43,6 @@ Get ijkplayer
 ```
 ./compile-ijk.sh all
 ```
-# Demo
-
 
 # 详细教程
 [使用 Ubuntu 编译 ijkplayer 源码](http://rockycoder.cn/ijkplayer/2018/04/18/Compile-ijkplayer.html)
