@@ -3,7 +3,7 @@
 
 # Build
 
-install software
+Install software
 
 ```
 sudo apt-get update
