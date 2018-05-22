@@ -11,23 +11,13 @@ sudo apt-get install git
 sudo apt-get install yasm
 ```
 
-clone ijkplayer
+Clone ijkplayer
 
 ```
 git clone https://github.com/Bilibili/ijkplayer.git ijkplayer-android
 ```
 
-enter ijkplayer-android directory
-```
-cd ijkplayer-android
-```
-
-Update the latest version
-```
-git checkout -B latest k0.8.8
-```
-
-Start init
+Init
 ```
 ./init-android.sh
 ```
@@ -35,11 +25,6 @@ Start init
 Support Https
 ```
 ./init-android-openssl.sh
-```
-
-enter contrib directory
-```
-cd android/contrib
 ```
 
 Build openssl
